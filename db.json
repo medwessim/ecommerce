@@ -1,0 +1,146 @@
+{
+  "users":[
+    {
+      "id":1,
+      "nom":"saidani",
+      "prenom":"wessime",
+      "email":"wessime@gmail.com",
+      "password":"wessime123",
+      "IsAdmin":true
+    },
+    {
+      "id":2,
+      "nom":"iheb",
+      "prenom":"sessi",
+      "email":"iheb@gmail.com",
+      "password":"iheb123",
+      "IsAdmin":false
+    },
+      {
+      "id":3,
+      "nom":"moujahed",
+      "prenom":"lyna",
+      "email":"lyna@gmail.com",
+      "password":"lyna123",
+      "IsAdmin":false
+    }
+  ],
+  "products":{
+    "Hoodie":[
+      {
+       "id":1,
+       "nom":"Red Hoodie",
+       "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus, illum quibusdam!",
+       "prix":80,
+       "color":"red",
+       "image":"capuchered.jpeg",
+       "quantity":2
+     },
+    {
+       "id":2,
+       "nom":"black Hoodie",
+       "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus, illum quibusdam!",
+       "prix":20,
+       "color":"Black",
+       "image":"capucheBlack.jpeg",
+       "quantity":4
+     },
+    {
+       "id":2,
+       "nom":"grey Hoodie",
+       "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus, illum quibusdam!",
+       "prix":80,
+       "color":"grey",
+       "image":"capuchegrey.jpeg",
+       "quantity":4
+     }
+     ],
+     "T-Shirt":[
+      {
+       "id":1,
+       "nom":"tshirtBlue",
+       "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus, illum quibusdam!",
+       "prix":80,
+       "color":"Blue",
+       "image":"tshirtBlue.jpg",
+       "quantity":2
+     },
+    {
+       "id":2,
+       "nom":"tshirtGreen",
+       "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus, illum quibusdam!",
+       "prix":20,
+       "color":"Green",
+       "image":"tshirtGreen.jpg",
+       "quantity":4
+     },
+    {
+       "id":2,
+       "nom":"tshirtBlack",
+       "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus, illum quibusdam!",
+       "prix":80,
+       "color":"Black",
+       "image":"tshirtBlack.webp",
+       "quantity":4
+     }
+     ],
+     "pants":[
+      {
+       "id":1,
+       "nom":"Blackpants",
+       "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus, illum quibusdam!",
+       "prix":80,
+       "color":"Black",
+       "image":"blackpants.png",
+       "quantity":2
+     },
+    {
+       "id":2,
+       "nom":"tshirtbrown",
+       "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus, illum quibusdam!",
+       "prix":20,
+       "color":"brown",
+       "image":"brownpants.png",
+       "quantity":4
+     },
+    {
+       "id":2,
+       "nom":"tshirtgrey",
+       "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus, illum quibusdam!",
+       "prix":80,
+       "color":"grey",
+       "image":"greypants.png",
+       "quantity":4
+     }
+     ],
+       "socks":[
+      {
+       "id":1,
+       "nom":"sockswhite",
+       "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus, illum quibusdam!",
+       "prix":80,
+       "color":"white",
+       "image":"sockswhite.png",
+       "quantity":2
+     },
+    {
+       "id":2,
+       "nom":"socksblue",
+       "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus, illum quibusdam!",
+       "prix":20,
+       "color":"blue",
+       "image":"socksblue.png",
+       "quantity":4
+     },
+    {
+       "id":2,
+       "nom":"socksblack",
+       "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus, illum quibusdam!",
+       "prix":80,
+       "color":"black",
+       "image":"socksblack.png",
+       "quantity":4
+     }
+  ]
+  }
+}
