@@ -55,7 +55,7 @@
        "quantity":4
      }
      ],
-    "T-Shirt":[
+     "T-Shirt":[
       {
        "id":4,
        "nom":"tshirtBlue",
@@ -84,5 +84,63 @@
        "quantity":4
      }
      ],
+     "pants":[
+      {
+       "id":7,
+       "nom":"Blackpants",
+       "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus, illum quibusdam!",
+       "prix":80,
+       "color":"Black",
+       "image":"blackpants.png",
+       "quantity":2
+     },
+    {
+       "id":8,
+       "nom":"tshirtbrown",
+       "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus, illum quibusdam!",
+       "prix":20,
+       "color":"brown",
+       "image":"brownpants.png",
+       "quantity":4
+     },
+    {
+       "id":9,
+       "nom":"tshirtgrey",
+       "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus, illum quibusdam!",
+       "prix":80,
+       "color":"grey",
+       "image":"greypants.png",
+       "quantity":4
+     }
+     ],
+       "socks":[
+      {
+       "id":10,
+       "nom":"sockswhite",
+       "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus, illum quibusdam!",
+       "prix":80,
+       "color":"white",
+       "image":"sockswhite.png",
+       "quantity":2
+     },
+    {
+       "id":11,
+       "nom":"socksblue",
+       "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus, illum quibusdam!",
+       "prix":20,
+       "color":"blue",
+       "image":"socksblue.png",
+       "quantity":4
+     },
+    {
+       "id":12,
+       "nom":"socksblack",
+       "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus, illum quibusdam!",
+       "prix":80,
+       "color":"black",
+       "image":"socksblack.png",
+       "quantity":4
+     }
+  ]
   }
 }
