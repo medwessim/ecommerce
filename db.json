@@ -54,6 +54,35 @@
        "image":"capuchegrey.jpeg",
        "quantity":4
      }
+     ],
+    "T-Shirt":[
+      {
+       "id":4,
+       "nom":"tshirtBlue",
+       "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus, illum quibusdam!",
+       "prix":80,
+       "color":"Blue",
+       "image":"tshirtBlue.jpg",
+       "quantity":2
+     },
+    {
+       "id":5,
+       "nom":"tshirtGreen",
+       "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus, illum quibusdam!",
+       "prix":20,
+       "color":"Green",
+       "image":"tshirtGreen.jpg",
+       "quantity":4
+     },
+    {
+       "id":6,
+       "nom":"tshirtBlack",
+       "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus, illum quibusdam!",
+       "prix":80,
+       "color":"Black",
+       "image":"tshirtBlack.webp",
+       "quantity":4
+     }
      ]
   }
 }
