@@ -46,7 +46,7 @@
        "quantity":4
      },
     {
-       "id":2,
+       "id":3,
        "nom":"grey Hoodie",
        "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus, illum quibusdam!",
        "prix":80,
@@ -57,7 +57,7 @@
      ],
      "T-Shirt":[
       {
-       "id":1,
+       "id":4,
        "nom":"tshirtBlue",
        "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus, illum quibusdam!",
        "prix":80,
@@ -66,7 +66,7 @@
        "quantity":2
      },
     {
-       "id":2,
+       "id"5,
        "nom":"tshirtGreen",
        "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus, illum quibusdam!",
        "prix":20,
@@ -75,7 +75,7 @@
        "quantity":4
      },
     {
-       "id":2,
+       "id":6,
        "nom":"tshirtBlack",
        "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus, illum quibusdam!",
        "prix":80,
@@ -86,7 +86,7 @@
      ],
      "pants":[
       {
-       "id":1,
+       "id":7,
        "nom":"Blackpants",
        "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus, illum quibusdam!",
        "prix":80,
@@ -95,7 +95,7 @@
        "quantity":2
      },
     {
-       "id":2,
+       "id":8,
        "nom":"tshirtbrown",
        "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus, illum quibusdam!",
        "prix":20,
@@ -104,7 +104,7 @@
        "quantity":4
      },
     {
-       "id":2,
+       "id":9,
        "nom":"tshirtgrey",
        "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus, illum quibusdam!",
        "prix":80,
@@ -115,7 +115,7 @@
      ],
        "socks":[
       {
-       "id":1,
+       "id":10,
        "nom":"sockswhite",
        "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus, illum quibusdam!",
        "prix":80,
@@ -124,7 +124,7 @@
        "quantity":2
      },
     {
-       "id":2,
+       "id":11,
        "nom":"socksblue",
        "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus, illum quibusdam!",
        "prix":20,
@@ -133,7 +133,7 @@
        "quantity":4
      },
     {
-       "id":2,
+       "id":12,
        "nom":"socksblack",
        "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus, illum quibusdam!",
        "prix":80,
